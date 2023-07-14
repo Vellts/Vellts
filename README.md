@@ -9,7 +9,7 @@
 - ✨ I’m currently learning Docker.  
   
 
-- ✨ Actually B1 in english.  
+- ✨ Actually B1.  
   
 
 <br/>  

@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey, I'm veltts and I'm from Colombia 🌠. I'm a programmer and backend enthusiast, I'm currently looking for a job as a developer.🧑‍💻</div>  
+### <div align="center">Hey, I'm veltts and I'm from Colombia 🌠. I'm a programmer and backend enthusiast, I'm currently looking for a job as developer.🧑‍💻</div>  
   
 
 - ✨ I’m currently learning Docker.  
